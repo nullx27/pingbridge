@@ -1,0 +1,17 @@
+{
+    "hipchat": {
+        "auth_token": "",
+        "rooms": ["Ping"],
+        "forward_room": "Ping",
+        "room_token": "",
+        "keywords": ["@all"],
+        "ping_template": "@here {name} pinged in slack: {message}"
+    },
+
+    "slack": {
+        "auth_token": "",
+        "forward_room": "#ping",
+        "keywords": ["@ping"],
+        "ping_template": "@here {name} pinged in hipchat: {message}"
+    }
+}
