@@ -6,6 +6,6 @@
     "license": "MIT",
     "dependencies": {
         "@slack/client": "^3.3.0",
-        "hipchatter": "^0.2.0",
+        "hipchatter": "^0.2.0"
     }
 }
